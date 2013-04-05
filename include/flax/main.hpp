@@ -3,7 +3,9 @@
 
 namespace flax
 {
-
+	void run()
+	{
+	}
 }
 
 #endif//__MYUN2_FLAX__flax__main_hpp__
