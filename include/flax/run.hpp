@@ -5,6 +5,10 @@ namespace flax
 {
 	void run_script(const char* script_str)
 	{
+		while(1)
+		{
+			
+		}
 	}
 }
 
