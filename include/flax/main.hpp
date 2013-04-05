@@ -3,7 +3,7 @@
 
 namespace flax
 {
-	void run()
+	void run_script(const char* script_str)
 	{
 	}
 }
